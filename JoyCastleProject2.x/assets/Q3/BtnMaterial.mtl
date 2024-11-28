@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.Material",
+  "_name": "BtnMaterial",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "bf6e4889-4da2-4ae3-984a-2558610bb85d"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      }
+    }
+  }
+}
